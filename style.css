@@ -523,6 +523,21 @@ button:hover{
         margin-top: 3rem;
      }
 
+     #titulo{
+        font-size: 2rem;
+        margin-bottom: 0.625rem;
+        font-weight: 800;
+        line-height: 2rem;
+        margin-top: 0.5rem;
+        margin-bottom: 0.3125rem;
+        padding-top: 14.75rem;
+    
+    }
+
+    #apresentation{
+        font-size: 2rem;
+        text-align: center;
+     }
  }
  
  
